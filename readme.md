@@ -122,7 +122,7 @@ public class Test {
    │   │   └── util/       # 工具类（反射、数据库连接等）
    ```
 
-2. **License**（建议添加开源协议，如 MIT）：
+2. **License**：
 
    markdown
 
